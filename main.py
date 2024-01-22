@@ -12,10 +12,10 @@ EXP = [{
     "location": "Remote",
     "duration": 1
 }, {
-    "company": "NOVA INNOVATIVE COMPSKEY",
+    "company": "Nic",
     "postion": "Creative marketing lead",
     "location": "Bengaluru",
-    "duration ": 29
+    "duration ": 26
 }]
 
 
